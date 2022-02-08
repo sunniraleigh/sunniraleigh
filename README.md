@@ -1,16 +1,15 @@
-### Hi there 👋
+### Sunni Raleigh
 
-<!--
-**sunniraleigh/sunniraleigh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+***
 
-Here are some ideas to get you started:
+⚙️ Looking for full-time positions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⌨️️ Working on personal projects
+
+💡 Reach out by [email](mailto:sraleigh@smith.edu)
+
+***
+
+📦 Most Recent Projects:
+
+- [Studio Ghibli Movie Tracker](https://github.com/sunniraleigh/sg-movie-tracker) implemented in Python
