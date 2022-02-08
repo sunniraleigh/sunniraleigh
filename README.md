@@ -6,7 +6,7 @@
 
 ⌨️️ Working on personal projects
 
-💡 Reach out by [email](mailto:sraleigh@smith.edu)
+💡 Reach out by [email](mailto:sunnigraleigh@gmail.com)
 
 ***
 
