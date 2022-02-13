@@ -2,11 +2,11 @@
 
 ***
 
-⚙️ Looking for full-time positions
+🏙 Looking for full-time positions
 
-⌨️️ Working on personal projects
+👾 Working on personal projects
 
-💡 Reach out by [email](mailto:sunnigraleigh@gmail.com)
+☀️ Reach out by [email](mailto:sunnigraleigh@gmail.com), connect on [linkedin](https://www.linkedin.com/in/sunnigraleigh/)
 
 ***
 
