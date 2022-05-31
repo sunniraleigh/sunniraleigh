@@ -12,6 +12,6 @@
 
 📦 Most Recent Projects:
 
+- [valetbike](https://github.com/epartakki/valetbike) created in Ruby on Railed
 - [Studio Ghibli Movie Tracker](https://github.com/sunniraleigh/sg-movie-tracker) implemented in Python
-- [Fictional Character Database and Randomizer](https://github.com/sunniraleigh/fictional-character-db-randomizer) created in Java
 - [schoolR](https://github.com/sunniraleigh/schoolR) built in R
