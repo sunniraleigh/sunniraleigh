@@ -2,7 +2,7 @@
 
 ***
 
-🏙 Looking for full-time positions
+🏙 Data Analyst
 
 👾 Working on personal projects
 
